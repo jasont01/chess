@@ -26,5 +26,6 @@ The YAML and colorize gems must be installed before running
 
 ```
 gem install yaml
+
 ```
 gem install colorize
