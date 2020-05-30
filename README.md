@@ -19,3 +19,12 @@
 This is the final project from the Ruby Programming course in The Odin Project's curriculum.<br />
 The goal of this project is to test you on everything you've learned in the course.<br />
 A link to the full description of the assignment can be found above.
+
+## Requirements
+
+The YAML and colorize gems must be installed before running
+
+```
+gem install yaml
+```
+gem install colorize
